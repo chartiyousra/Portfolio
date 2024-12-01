@@ -1,0 +1,24 @@
+/*Accueil*/
+
+.accueil{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    background-color: antiquewhite;
+}
+
+.accueil-container {
+    font-size: 2rem;
+    text-align: center;
+}
+
+.accueil-container h1 {
+}
+
+span {
+    color : #311212;
+}
